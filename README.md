@@ -20,4 +20,4 @@ Talk to me about
 - Scripting chore tasks with **Node, Python, Shell**
 
 
-#### I am open to inte cooperation. Please contact me if you have an ideas
+#### I am open to cooperation. Please contact me if you have an ideas
