@@ -22,3 +22,6 @@ Talk to me about
 - Robust full-stack system design implementation
 - Mobile application development using **Android (Java or Kotlin), React Native**
 - Scripting chore tasks with **Node, Python, Shell**
+
+
+#### I am open to inte cooperation. Please contact me if you have an ideas
