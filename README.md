@@ -6,7 +6,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-artemze985i@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemze985@gmail.com)](mailto:artemze985@gmail.com)
 
-<br>
 
 ### My name is Artem and i am: 
 - A full-stack software engineer
