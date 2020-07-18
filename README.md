@@ -5,9 +5,9 @@
  - <a href="mailto:artemze985@gmail.com">Gmail</a>
 
 ### My name is Artem and i am: 
-- A full-stack software engineer
+- A full-stack software engineer.
 - A Computer Science graduation. 
-- Currently working on a Social Media Marketing cloud-platforn.
+- Currently working on a Social Media Marketing cloud-platform.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ## ⚡ Technologies
