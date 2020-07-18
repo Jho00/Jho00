@@ -3,8 +3,10 @@
 <a href="https://t.me/Jho00">
   <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+[![Gmail Badge](https://img.shields.io/badge/-artemze985i@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemze985@gmail.com)](mailto:artemze985@gmail.com)
 
-### I am Artem
+<br>
+### My name is Artem and i am: 
 - A full-stack software engineer
 - A Computer Science graduation. 
 - Currently working on a Social Media Marketing cloud-platforn.
