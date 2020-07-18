@@ -1,11 +1,8 @@
 ## Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://t.me/Jho00">
-  Telegram
-</a>
-
-[![Gmail Badge](https://img.shields.io/badge/-artemze985i@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artemze985@gmail.com)](mailto:artemze985@gmail.com)
-
+#### Contact me
+ - <a href="https://t.me/Jho00">Telegram</a>
+ - <a href="mailto:artemze985@gmail.com">Gmail</a>
 
 ### My name is Artem and i am: 
 - A full-stack software engineer
