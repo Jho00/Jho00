@@ -10,7 +10,7 @@
 - Currently working on a Social Media Marketing cloud-platform.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-## ⚡ Technologies
+### ⚡ Technologies
 Talk to me about
 - Front-end development using **Vue, React, TypeScript, VanillaJS**
 - Backend development using **Node, Express, Java, Spring Boot, PHP**
