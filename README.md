@@ -7,7 +7,7 @@
 ### My name is Artem and i am: 
 - A full-stack software engineer.
 - A Computer Science degree. 
-- Currently working on a Social Media Marketing cloud-platform.
+- Currently working on huge retail platform.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ### ⚡ Technologies
