@@ -23,6 +23,3 @@ Talk to me about
 #### I am open to cooperation. Please contact me if you have an ideas
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Jho00 alt=Jho00 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Jho00&show_icons=true&include_all_commits=true)](https://github.com/Jho00/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jho00&layout=compact)](https://github.com/Jho00/github-readme-stats)
