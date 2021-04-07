@@ -13,7 +13,7 @@
 ### ⚡ Technologies
 Talk to me about
 - Front-end development using **Vue, React, TypeScript, VanillaJS**
-- Backend development using **Node, Express, Java, Spring Boot, PHP**
+- Backend development using **Node, Express, Java, Spring Boot, Golang, PHP**
 - Architectural design for **Relational Database Management Systems** as well as for NoSQL database systems like **MongoDB** and SQL database like **MySQL, PostgreSQL**
 - Robust full-stack system design implementation
 - Mobile application development using **Android (Java or Kotlin), React Native**
