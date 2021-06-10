@@ -23,3 +23,4 @@ Talk to me about
 #### I am open to cooperation. Please contact me if you have an ideas
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Jho00 alt=Jho00 /> </p>
+<p align=left> <img src=https://www.codewars.com/users/Jho00/badges/micro alt=Jho00 /> </p>
