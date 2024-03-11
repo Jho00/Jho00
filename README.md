@@ -7,7 +7,7 @@
 ### My name is Artem and i am: 
 - A full-stack software engineer.
 - A Computer Science degree. 
-- Currently working on carsharing platform.
+- Currently working on fintech platform.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 ### ⚡ Technologies
